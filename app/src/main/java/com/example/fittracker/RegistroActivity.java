@@ -176,7 +176,7 @@ public class RegistroActivity extends AppCompatActivity {
 
         Toast.makeText(
                 this,
-                "Actividad registrada correctamente",
+                "Entrenamiento registrado correctamente",
                 Toast.LENGTH_SHORT
         ).show();
     }
